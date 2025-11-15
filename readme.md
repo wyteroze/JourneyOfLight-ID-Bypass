@@ -22,7 +22,7 @@ Git (https://git-scm.com/)
 
 1. Download source via git
 
-- Open your terminal or command prompt and run: <br>`git clone https://github.com/halophile4/JourneyOfLight-Auth-Bypass.git`
+- Open your terminal or command prompt and run: <br>`git clone https://github.com/wyteroze/JourneyOfLight-Auth-Bypass.git`
 - Once downloading is finished, type this and press enter: `cd JourneyOfLight-Auth-Bypass`
 - You will now be in the project directory
 
